@@ -10,7 +10,7 @@ var map = new mapboxgl.Map({
 map.addControl( // Add the Mapbox geocoder (search for place) control to the map.
     new MapboxGeocoder({
         accessToken: mapboxgl.accessToken,
-        placeholder: 'Probeer: Hoorn',
+        placeholder: 'Probeer: Grevenlingenweg',
         mapboxgl: mapboxgl
     })
 );

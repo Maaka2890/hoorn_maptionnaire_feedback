@@ -108,7 +108,7 @@ body {
     box-shadow: 4px 4px 10px 0 rgba(0,0,0,0.27);
     border-radius: 10px;
     font-family: "Segoe UI";
-    max-width: 1000px;
+    max-width: 750px;
     max-height: 500px;
     width: 80vw;
     height: 80vh;
@@ -124,8 +124,8 @@ body {
   text-align: center;
   font-family: "Segoe UI";
   color: white;
-  margin-left: 25pt;
-  margin-right: 25pt;
+  margin-left: 50pt;
+  margin-right: 50pt;
 }
 
 .list {
